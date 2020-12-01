@@ -1,5 +1,8 @@
+add_executable(template template.cpp)
 add_executable(1_2_01 1_2_01.cpp)
 add_executable(1_2_02 1_2_02.cpp)
 add_executable(1_2_03 1_2_03.cpp)
 add_executable(1_2_04 1_2_04.cpp)
 add_executable(1_2_05 1_2_05.cpp)
+add_executable(1_3_01 1_3_01.cpp)
+add_executable(1_3_02 1_3_02.cpp)
