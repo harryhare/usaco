@@ -8,7 +8,6 @@ TASK: transform
 #include <cstdlib>
 #include <iostream>
 #include <cmath>
-#include <vector>
 
 using namespace std;
 int main() {
